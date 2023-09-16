@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Algorithm-Visualizer/static/css/main.8b204eba.css",
+    "main.js": "/Algorithm-Visualizer/static/js/main.5b5bad73.js",
+    "static/js/787.878a89ae.chunk.js": "/Algorithm-Visualizer/static/js/787.878a89ae.chunk.js",
+    "static/media/MonoLisa-Regular.otf": "/Algorithm-Visualizer/static/media/MonoLisa-Regular.4ec1cbcb13c98e690a55.otf",
+    "index.html": "/Algorithm-Visualizer/index.html",
+    "main.8b204eba.css.map": "/Algorithm-Visualizer/static/css/main.8b204eba.css.map",
+    "main.5b5bad73.js.map": "/Algorithm-Visualizer/static/js/main.5b5bad73.js.map",
+    "787.878a89ae.chunk.js.map": "/Algorithm-Visualizer/static/js/787.878a89ae.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b204eba.css",
+    "static/js/main.5b5bad73.js"
+  ]
+}
